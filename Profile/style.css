@@ -1,0 +1,9 @@
+.page{
+    background-color: hsl(185, 75%, 39%);
+
+}
+
+.card{
+    text-align: center;
+    border-color: gray;
+}

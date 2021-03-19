@@ -1,9 +1,26 @@
-.page{
+body{
     background-color: hsl(185, 75%, 39%);
 
 }
 
 .card{
     text-align: center;
-    border-color: gray;
+    border-radius: 50%  hsl(0, 0%, 59%);
+
 }
+
+.line{
+    border-bottom: 2px  rgb(150, 150, 150);
+}
+
+
+.name{
+    text-align: center;
+}
+
+.list{
+    list-style: none;
+    text-align: center;
+}
+
+
